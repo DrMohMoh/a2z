@@ -23,6 +23,7 @@ https://commonvoice.mozilla.org/en
 https://github.com/SalifouAbdourahamane/swahili_asr_sota_model - https://zindi.africa/learn/winning-solution-to-the-swahili-asr-challenge
 https://huggingface.co/datasets/Sunbird/salt - https://github.com/SunbirdAI/salt
 https://masakhane-io.github.io/bibleTTS/
+https://huggingface.co/AymanMansour/Whisper-Sudanese-Dialect-small
 
 NLP
 https://github.com/InstituteforDiseaseModeling/Bridging-the-Gap-Low-Resource-African-Languages
