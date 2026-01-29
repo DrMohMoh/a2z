@@ -30,3 +30,5 @@ https://sites.google.com/view/africanlp2025/home
 https://github.com/masakhane-io/masakhane-mt - https://dadelani.github.io/files/PhD_Thesis.pdf
 https://localizzzafrica.com/engage-africa-nlp-the-app/
 https://huggingface.co/BeardedMonster/SabiYarn-125M - https://aclanthology.org/2025.africanlp-1.14.pdf
+https://github.com/GhanaNLP/ghanaian-nlp-datasets-models
+[https://github.com/somali-nlp/somali-dialect-classifier](https://github.com/somali-nlp/somali-dialect-classifier/blob/main/docs/reference/silver-schema.md)
