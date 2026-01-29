@@ -17,6 +17,7 @@ English -> African languages
 African languages -> English
 
 https://github.com/openai/whisper
+https://github.com/facebookresearch/omnilingual-asr
 https://commonvoice.mozilla.org/en
 [https://kevkibe.github.io/African-Whisper/gettingstarted/](https://kevkibe.github.io/African-Whisper/gettingstarted/)
 https://github.com/SalifouAbdourahamane/swahili_asr_sota_model - https://zindi.africa/learn/winning-solution-to-the-swahili-asr-challenge
