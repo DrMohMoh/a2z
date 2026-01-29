@@ -4,6 +4,7 @@ SW/HW protocol for low-resource African language ASR models
 
 WhatsApp
 TTS STT
+https://github.com/matteo-convertino/vosk-build-model
 
 Medical terminology prioritized
 
