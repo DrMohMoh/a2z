@@ -29,6 +29,7 @@ https://huggingface.co/datasets/google/WaxalNLP
 https://huggingface.co/datasets/openlanguagedata/flores_plus
 https://huggingface.co/datasets/beethogedeon/fongbe-speech
 https://translation.ghananlp.org/api-details#api=ghananlp-automatic-speech-recognition-api-v1&operation=648dfaa45716699ca9920d92
+https://www.openslr.org/resources.php https://huggingface.co/datasets/openslr/openslr
 
 NLP
 https://github.com/InstituteforDiseaseModeling/Bridging-the-Gap-Low-Resource-African-Languages
