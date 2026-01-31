@@ -26,7 +26,7 @@ https://huggingface.co/datasets/Sunbird/salt - https://github.com/SunbirdAI/salt
 https://masakhane-io.github.io/bibleTTS/
 https://huggingface.co/AymanMansour/Whisper-Sudanese-Dialect-small
 https://huggingface.co/datasets/google/WaxalNLP
-https://huggingface.co/datasets/google/fleurs
+https://huggingface.co/datasets/openlanguagedata/flores_plus
 
 NLP
 https://github.com/InstituteforDiseaseModeling/Bridging-the-Gap-Low-Resource-African-Languages
