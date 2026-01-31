@@ -32,7 +32,7 @@ https://translation.ghananlp.org/api-details#api=ghananlp-automatic-speech-recog
 
 NLP
 https://github.com/InstituteforDiseaseModeling/Bridging-the-Gap-Low-Resource-African-Languages
-https://sites.google.com/view/africanlp2025/home
+https://sites.google.com/view/africanlp2025/home https://github.com/Andrews2017/africanlp-public-datasets
 https://github.com/masakhane-io/masakhane-mt - https://dadelani.github.io/files/PhD_Thesis.pdf
 https://localizzzafrica.com/engage-africa-nlp-the-app/
 https://huggingface.co/BeardedMonster/SabiYarn-125M - https://aclanthology.org/2025.africanlp-1.14.pdf
