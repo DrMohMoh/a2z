@@ -17,7 +17,7 @@ Accented English
 English -> African languages
 African languages -> English
 
-[https://github.com/openai/whisper](https://github.com/openai/whisper/blob/main/whisper/tokenizer.py#L10)
+[https://github.com/openai/whisper](https://github.com/openai/whisper/blob/main/whisper/tokenizer.py#L10) https://huggingface.co/openai/whisper-large-v3
 https://github.com/facebookresearch/omnilingual-asr
 https://commonvoice.mozilla.org/en
 [https://kevkibe.github.io/African-Whisper/gettingstarted/](https://kevkibe.github.io/African-Whisper/gettingstarted/)
