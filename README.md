@@ -27,6 +27,7 @@ https://masakhane-io.github.io/bibleTTS/
 https://huggingface.co/AymanMansour/Whisper-Sudanese-Dialect-small
 https://huggingface.co/datasets/google/WaxalNLP
 https://huggingface.co/datasets/openlanguagedata/flores_plus
+https://translation.ghananlp.org/api-details#api=ghananlp-automatic-speech-recognition-api-v1&operation=648dfaa45716699ca9920d92
 
 NLP
 https://github.com/InstituteforDiseaseModeling/Bridging-the-Gap-Low-Resource-African-Languages
