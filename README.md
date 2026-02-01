@@ -1,6 +1,8 @@
 # a2z
 
 SW/HW protocol for low-resource African language ASR models
+https://en.wikipedia.org/wiki/Languages_of_Africa
+https://en.wikipedia.org/wiki/Category:Languages_of_Africa
 
 WhatsApp
 TTS STT
